@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b7902cb531d86fd46b43748e3a68c9b7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - bomb: {fileID: 2756358244980633104, guid: ab8eabc52ca8b404e87458f69b28cc49, type: 3}
+  - coinSpawnScript: {instanceID: 0}
+  - Logic: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
